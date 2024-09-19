@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { deleteContact } from '../../redux/contactsSlice';
+import { deleteContact } from '../../redux/contactsOps';
 import css from './Contact.module.css';
 import { FaPhoneAlt } from 'react-icons/fa';
 import { MdOutlineMan } from 'react-icons/md';
